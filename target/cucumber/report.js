@@ -197,28 +197,28 @@ formatter.match({
   "location": "cucumberStep.user_launch_the_application()"
 });
 formatter.result({
-  "duration": 9233576623,
+  "duration": 6876838672,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberStep.user_Click_On_Ipad_Link()"
 });
 formatter.result({
-  "duration": 1117913112,
+  "duration": 640888827,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberStep.click_On_Buy_Link()"
 });
 formatter.result({
-  "duration": 1981286273,
+  "duration": 2126080448,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberStep.click_On_Silver_Color()"
 });
 formatter.result({
-  "duration": 1315870275,
+  "duration": 1174189219,
   "status": "passed"
 });
 formatter.match({
@@ -231,119 +231,119 @@ formatter.match({
   "location": "cucumberStep.click_On_GB_Storage(int)"
 });
 formatter.result({
-  "duration": 1236607330,
+  "duration": 1161366608,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberStep.click_On_WiFI_Cellular_Connectivity()"
 });
 formatter.result({
-  "duration": 1313400054,
+  "duration": 1181825608,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberStep.click_On_AppleCare()"
 });
 formatter.result({
-  "duration": 1246156735,
+  "duration": 1138186863,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberStep.click_On_Add()"
 });
 formatter.result({
-  "duration": 1289628099,
+  "duration": 1098230477,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberStep.click_On_Continue()"
 });
 formatter.result({
-  "duration": 2365174773,
+  "duration": 2313008407,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberStep.click_On_AddToBag()"
 });
 formatter.result({
-  "duration": 4166234846,
+  "duration": 3405060416,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberStep.click_On_ReviewBag_Button()"
 });
 formatter.result({
-  "duration": 2639485972,
+  "duration": 2249340235,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberStep.click_On_CheckOut()"
 });
 formatter.result({
-  "duration": 1244996380,
+  "duration": 1174187396,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberStep.click_On_ContinueasGuest()"
 });
 formatter.result({
-  "duration": 1218882566,
+  "duration": 1118745635,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberStep.select_ContinueToShipping_Address()"
 });
 formatter.result({
-  "duration": 1515741914,
+  "duration": 1384060987,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberStep.enter_Address_Details()"
 });
 formatter.result({
-  "duration": 7838656731,
+  "duration": 7792407736,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberStep.click_On_ContinueToPayment()"
 });
 formatter.result({
-  "duration": 1171518070,
+  "duration": 1107209551,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberStep.select_Credit_Debit()"
 });
 formatter.result({
-  "duration": 1156101252,
+  "duration": 1115696696,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberStep.enter_CreditCard_Details()"
 });
 formatter.result({
-  "duration": 3677882334,
+  "duration": 3753124880,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberStep.click_On_Order()"
 });
 formatter.result({
-  "duration": 1219606785,
+  "duration": 1223604575,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberStep.verify_Error_Message()"
 });
 formatter.result({
-  "duration": 1117553555,
+  "duration": 1057614053,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberStep.close_Browser()"
 });
 formatter.result({
-  "duration": 1077175620,
+  "duration": 1078462512,
   "status": "passed"
 });
 });
