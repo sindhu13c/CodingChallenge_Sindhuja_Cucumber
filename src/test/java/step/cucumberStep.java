@@ -19,9 +19,9 @@ public class cucumberStep {
 	
 	WebDriver driver;
 	//windows
-	String driverPath="./src/test/java/utility/chromedriver.exe";
+	//String driverPath="./src/test/java/utility/chromedriver.exe";
 	//mac
-	//String driverPath="./src/test/java/utility/chromedriver";
+	String driverPath="./src/test/java/utility/chromedriver";
 	
 
 	@Given("^User launch the application$")
